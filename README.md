@@ -50,7 +50,7 @@ Basic IoT knowledge and will go for more
 ### To Do
 
 ```bash
-Grab a device that allows me to read and write data, then play with those binary's
+Grab a device that allows me to access the primaryServices, and play with those binary's
 
 ```
 
